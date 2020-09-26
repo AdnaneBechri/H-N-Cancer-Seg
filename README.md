@@ -2,7 +2,7 @@
 All the code here is based on this Github repositories : 
 - for models based on 3D U-Net :
 
-https://github.com/UdonDa/3D-UNet-PyTorch/blob/master/src/model.py
+https://github.com/UdonDa/3D-UNet-PyTorch
 
 https://github.com/josedolz/LiviaNET
 
